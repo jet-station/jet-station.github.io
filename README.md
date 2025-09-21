@@ -22,6 +22,7 @@ Explore the embedded systems topics below 👇:
 2. [Overview and practices for data types in embedded C](https://jet-station.github.io/embedded-systems/embedded-c-data-types/)
 3. [Struct and Union data type in embedded C](https://jet-station.github.io/embedded-systems/struct-union-data-types/)
 4. [Embedded C Function: Concepts, Usage, Call Stack and Best Practices](https://jet-station.github.io/embedded-systems/embedded-c-function/)
+5. [C Macro: Usage, Best Practices, and Common Pitfalls](https://jet-station.github.io/embedded-systems/c-macro/)
 
 # Development Toolbox
 
